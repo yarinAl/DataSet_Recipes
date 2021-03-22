@@ -1,0 +1,20 @@
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.exe.config
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.exe
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.pdb
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csprojAssemblyReference.cache
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil_3__DataSet.Form1.resources
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil_3__DataSet.Properties.Resources.resources
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csproj.GenerateResource.cache
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csproj.CoreCompileInputs.cache
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.exe
+D:\תוכנה נו\שנה ב\סמסטר ב\ריאקט\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.pdb
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.exe.config
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.exe
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\bin\Debug\targil 3- DataSet.pdb
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csprojAssemblyReference.cache
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil_3__DataSet.Form1.resources
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil_3__DataSet.Properties.Resources.resources
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csproj.GenerateResource.cache
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.csproj.CoreCompileInputs.cache
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.exe
+C:\Users\yarin\Desktop\targil 3- DataSet\targil 3- DataSet\obj\Debug\targil 3- DataSet.pdb
